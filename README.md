@@ -47,3 +47,8 @@ O sistema, executado através do arquivo `gerenciador.py`, permite as seguintes 
 O sistema organiza os arquivos automaticamente na seguinte estrutura:
 
 biblioteca/ │ ├── PDF/ │ ├── 2023/ │ │ └── artigo_ia.pdf │ └── 2022/ │ └── tese_computacao.pdf │ └── ePUB/ └── 2023/ └── livro_python.epub
+
+## 🧑‍💻 Autor
+
+* **Yan Barberino**
+* [GitHub](https://github.com/yanbarberino)
